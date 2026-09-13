@@ -1,0 +1,154 @@
+Copyright (c) 2025 Orpita Game Community and the respective contributors.
+
+All Rights Reserved.
+
+This repository contains the official GMTK Game Jam 2025 submission of "One More Day".
+
+This license protects the Project and the contributions of its creators while allowing Team Members to showcase their work. Contributions to this Project are accepted subject to the terms set out in CONTRIBUTING.md.
+
+==========================================================
+SECTION 1: DEFINITIONS
+==========================================================
+
+1.1 "Project" refers to "One More Day", including but not limited to all source code, game assets, artwork, audio files, documentation, design documents, build configurations, and other materials contained in this repository.
+
+1.2 "Orpita Game Community" (hereinafter "the Community") refers to the volunteer-based, youth-focused game development community founded to provide learning and collaborative project opportunities for its members.
+
+1.3 "Team Members" refers to individuals who actively contributed to the development of the Project as part of the Community and are listed under "Orpita Community Members" in CONTRIBUTORS.md.
+
+1.4 "External Contributors" refers to individuals who contributed voluntarily to the Project during a specific event or activity, such as a game jam, without being members of the Community. External Contributors are acknowledged for their contributions but do not receive Team Member status or the permissions described in Section 3 unless otherwise agreed in writing.
+
+1.5 "Official Repository" refers to the GitHub repository maintained and controlled by the Community.
+
+1.6 "Community Representative" refers to the Founder of Orpita Game Community or any individual officially designated by the Community to act on its behalf in matters related to this license.
+
+1.7 "Derivative Work" includes, but is not limited to, modified versions, forks, remakes, remasters, sequels, ports, adaptations, or other works based upon or incorporating any portion of the Project.
+
+==========================================================
+SECTION 2: OWNERSHIP AND SPIRIT
+==========================================================
+
+2.1 The Project consists of contributions made by the Community and its contributors. Copyright and other intellectual property rights remain with their respective rights holders, subject to any rights or licenses granted to the Community under applicable contribution terms.
+
+2.2 This license aims to foster a collaborative, educational, and supportive environment where Team Members can learn, grow, and proudly showcase their work, while protecting the Project from unauthorized external use, redistribution, and independent development.
+
+2.3 The names "One More Day", "Orpita Game Community", associated logos, and related branding are protected by applicable intellectual property rights. Ownership remains with their respective rights holders.
+
+==========================================================
+SECTION 3: PERMISSIONS FOR TEAM MEMBERS
+==========================================================
+
+3.1 Team Members, whether current or former, are permitted to:
+
+a) Showcase the Project in personal portfolios, resumes, websites, presentations, and social media platforms.
+b) Display their specific contributions, including code snippets, assets, or features they personally created.
+c) Reference the Project in interviews, articles, or discussions about their work.
+d) Use the Project as a learning reference for personal and educational purposes.
+e) Share the official link to the Official Repository for reference purposes.
+
+3.2 When showcasing the Project, Team Members are encouraged to:
+
+a) Credit the Community as the original studio behind the Project.
+b) Mention fellow contributors when appropriate.
+c) Link to the Official Repository whenever reasonably possible.
+
+3.3 Team Members retain the right to showcase their individual contributions, including after leaving the Community, provided they:
+
+a) Accurately represent only their own role and contributions.
+b) Do not redistribute the entire Project or substantial portions thereof.
+c) Do not claim ownership of the Project as a whole.
+d) Do not host, publish, or upload the source code or large portions thereof to any platform. Displaying short excerpts that do not constitute a substantial or functional portion of the Project, generally not exceeding 30 lines of code where applicable, is permitted for educational or portfolio purposes.
+
+==========================================================
+SECTION 4: PROTECTION OF THE PROJECT
+==========================================================
+
+4.1 The Official Repository and the Community's other officially designated distribution channels are the authorized channels for distributing the Project.
+
+4.2 The following actions are prohibited for any individual or entity without prior written permission from the Community Representative, except as expressly permitted under Section 3 or where a copy is made solely for local personal viewing, study, or execution of the Project without modification, redistribution, or publication:
+
+a) Copying, reproducing, or redistributing the Project or any substantial portion thereof.
+b) Forking or mirroring the Official Repository on GitHub or any other platform.
+c) Creating or distributing derivative works, including modified versions, remakes, remasters, sequels, ports, or adaptations.
+d) Publishing, hosting, or making the source code, binaries, or assets available to the public.
+e) Claiming ownership of the Project or presenting it as independent work.
+f) Using the Project or any substantial portion thereof for commercial purposes.
+g) Incorporating the Project or any substantial portion thereof into another project.
+h) Independently developing or releasing the Project or a derivative work outside the Community.
+
+4.3 GitHub's fork feature does not override this license. Any fork, mirror, or public copy of the Official Repository is prohibited unless explicitly authorized by the Community Representative.
+
+==========================================================
+SECTION 5: CONTINUITY AND DEVELOPMENT RIGHTS
+==========================================================
+
+5.1 The Project is intended to be a living, evolving work maintained by Orpita Game Community.
+
+5.2 The Community may exercise the rights granted to it under applicable contribution terms to maintain, develop, modify, and distribute the Project, including:
+
+a) Modifying, updating, improving, and developing the Project.
+b) Creating new versions, adaptations, or derivative works.
+c) Distributing, publishing, and releasing the Project.
+d) Integrating the Project into other works or projects under the Community's direction.
+
+5.3 The rights granted to the Community under applicable contribution terms are not conditioned upon the individual consent, approval, or ongoing participation of a contributor, whether current or former, subject to the terms of those contribution agreements.
+
+5.4 Individual contributors retain:
+
+a) Recognition for their contributions in official project records and releases where appropriate.
+b) The right to showcase their personal contributions as defined in Section 3.
+c) The right to be credited in official releases where their contributions are included.
+
+5.5 No contributor, whether current or former, may use ownership or authorship of an individual contribution to prevent, delay, or restrict the Community from exercising the rights granted under this license and CONTRIBUTING.md.
+
+5.6 This section exists to protect the continuity of the Project and the Community's ability to continue developing, maintaining, and releasing it despite individual departures or disagreements.
+
+==========================================================
+SECTION 6: DEVELOPMENT RESTRICTIONS
+==========================================================
+
+6.1 No modified version, fork, remake, remaster, sequel, port, or other derivative work based on the Project may be publicly distributed or released without prior written permission from the Community Representative.
+
+6.2 Team Members who wish to develop the Project further within the Community are encouraged to do so collaboratively through the Official Repository.
+
+6.3 Any development, modification, or derivative work based on the Project by current or former Team Members or external parties requires prior written permission from the Community Representative unless expressly permitted by applicable contribution terms.
+
+6.4 Any Team Member who leaves the Community and wishes to contribute further to the Project's development should do so through the Official Repository with the Community's involvement and approval.
+
+6.5 Unauthorized development, distribution, or reuse of the Project may result in enforcement actions under applicable law and platform policies, including platform-based takedown procedures and other copyright enforcement measures where applicable.
+
+==========================================================
+SECTION 7: ENFORCEMENT
+==========================================================
+
+7.1 Violations of this license may result in enforcement actions under applicable law and platform policies, including platform-based takedown procedures and other copyright enforcement measures.
+
+7.2 A Team Member who materially violates Section 3.3 may lose the showcase permissions granted under Section 3, subject to review by the Community Representative.
+
+==========================================================
+SECTION 8: GOVERNING LAW
+==========================================================
+
+8.1 This license shall be governed by and construed in accordance with the laws of the Arab Republic of Egypt, without regard to conflict of law principles.
+
+==========================================================
+SECTION 9: WARRANTY DISCLAIMER
+==========================================================
+
+9.1 THE SOFTWARE AND OTHER MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+9.2 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COMMUNITY OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+
+==========================================================
+SECTION 10: CONTACT AND PERMISSIONS
+==========================================================
+
+10.1 For permission requests, questions, or clarifications regarding this license, contact: orpitastudios@gmail.com.
+
+10.2 Permission granted for any specific use does not constitute a waiver of rights for any other use or for use by any other party.
+
+10.3 All permission requests for development, modification, distribution, commercial use, or derivative works must be directed to the Community Representative in writing.
+
+==========================================================
+END OF LICENSE
+==========================================================
